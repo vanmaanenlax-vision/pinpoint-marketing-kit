@@ -1,7 +1,7 @@
 # Season launch — Wed Oct 14, 2026 (approved by Jeff)
 
 Rules: free features lead; Pro = "Pro Assistant Coach: in beta, limited spots"; no safety or injury claims; no coach quotes; no unshipped features; wrestlingpinpoint.com is the only link.
-Video: video/pinpoint-launch-9x16-silent.mp4 (1080x1920, 17.6 s, NO audio; add a platform-library track when posting). Jeff decided Oct 14: no baked-in music.
+Video: video/pinpoint-launch-9x16-silent.mp4 (1080x1920, 17.6 s, NO audio). Post it silent. Jeff decided Oct 14: no baked-in music; a platform-library track is optional and only Jeff adds it in the app.
 
 ## 1. PinPoint Wrestling Facebook Page — Reel, 12:00 PM CT (Vito posts on Jeff's go)
 Season's here. Weigh-ins just got easy.

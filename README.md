@@ -3,7 +3,7 @@
 Approved, public-safe marketing material for PinPoint (wrestlingpinpoint.com). Maestro updates it after Jeff approves; Vito reads it. Nothing here is private: no athlete data, no team data, no internal notes. Every file in `captions/` was approved by Jeff before it landed here.
 
 - `captions/` — post text per date and platform, with the rules at the top of each file
-- `video/` — approved cuts (silent; add a platform-library track when posting)
+- `video/` — approved cuts. Silent is the rule: post as-is. A platform-library track is optional and only Jeff adds it, in the app, before the post goes live.
 - `images/` — approved stills and cover frames
 
 Headline bank (use only once the feature is live and verified in a real room): "Scores show who won. Your notes show why." Hold until the week of Oct 20, 2026.
