@@ -14,3 +14,10 @@ Tier wording, exact (Jeff, Oct 14 2026):
 Never: "Pro beta is free this season", "free through Dec 31 / March 2027".
 
 Standing rules for anything posted from this kit: captions are copied verbatim from captions/<date>.md, never rewritten; bots post only on Jeff's explicit go, per post; Pro is "beta, limited spots"; free features lead; no coach quotes; no safety or injury claims; no numbers that were not verified.
+
+## Handles (Oct 14, 2026)
+- Facebook Page: PinPoint Wrestling (linked to the Instagram below).
+- Instagram: @wrestlingpinpoint (business account, created Oct 14; website link and Threads still to set).
+- Reddit: Jeff posts as **CoachVanMaanen** (his own account, coach voice, builder disclosed in the post). No PinPoint brand account on Reddit.
+- Brand handle to reserve elsewhere when we get there (Threads/X/TikTok/YouTube): PinpointCoach.
+Rules: accounts are created by Jeff only. Nothing posts anywhere without Jeff's go, per post.
