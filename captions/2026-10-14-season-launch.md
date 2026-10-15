@@ -23,4 +23,4 @@ Season's here, so here's what's making weigh-ins easy in our room this year. Pin
 Season's here. Weigh-ins just got easy. PinPoint sets your line in % or lb and fills in the decimal for you. Google Sheets export is free and live. Pro Assistant Coach: in beta, limited spots. wrestlingpinpoint.com
 
 ## 4. LAW Wrestling closed group — Jeff's voice (Jeff posts)
-Built something for our room this season. PinPoint handles weigh-ins now. Set your line in % or lb and it fills in the decimal for you. Free to use, kiosk runs on phones. wrestlingpinpoint.com
+Built something for our room this season. PinPoint handles weigh-ins now. Set your line in % or lb and it fills in the decimal for you. The Scale is free, and the kiosk runs on phones. wrestlingpinpoint.com

@@ -9,9 +9,9 @@ Approved, public-safe marketing material for PinPoint (wrestlingpinpoint.com). M
 Headline bank (use only once the feature is live and verified in a real room): "Scores show who won. Your notes show why." Hold until the week of Oct 20, 2026.
 
 Tier wording, exact (Jeff, Oct 14 2026):
-- Free: free for every team for the whole 2026-27 season.
+- Free: The Scale is free for every team. (Always name the Scale. Never say PinPoint, Pro, or "everything" is free, and never "free for the season".)
 - Pro: in beta, limited spots, 30-day free trial from the day a team's Pro is turned on, then paid. Jeff approves each trial.
-Never: "Pro beta is free this season", "free through Dec 31 / March 2027".
+Never: "free for the 2026-27 season", "free this season", "Pro beta is free this season", "free through Dec 31 / March 2027".
 
 Standing rules for anything posted from this kit: captions are copied verbatim from captions/<date>.md, never rewritten; bots post only on Jeff's explicit go, per post; Pro is "beta, limited spots"; free features lead; no coach quotes; no safety or injury claims; no numbers that were not verified.
 
