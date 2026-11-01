@@ -3,7 +3,7 @@
 Approved, public-safe marketing material for PinPoint (wrestlingpinpoint.com). Maestro updates it after Jeff approves; Vega reads it for captions and scheduling. Nothing here is private: no athlete data, no team data, no internal notes. Every file in `captions/` was approved by Jeff before it landed here.
 
 - `captions/` — post text per date and platform, with the rules at the top of each file
-- `video/` — approved cuts. Silent is the rule: post as-is. A platform-library track is optional and only Jeff adds it, in the app, before the post goes live.
+- `video/` — approved cuts, post as-is. The Coach Pin videos (`coach-pin-ad-v6.mp4` = Tue Nov 3 launch post, `coach-pin-remembers-v4.mp4` = "He remembers", after launch) carry their own original sound design (Jeff OK Nov 1 2026); never add a platform track on top of them. `coach-pin-ad-v5.mp4` is the silent cut, kept for reference only. The other cuts are silent: a platform-library track is optional and only Jeff adds it, in the app, before the post goes live.
 - `images/` — approved stills and cover frames (`images/coach-pin/`: the Coach Pin mascot poses)
 
 Headline bank (use only once the feature is live and verified in a real room): "Scores show who won. Your notes show why." Hold until the week of Oct 20, 2026.
